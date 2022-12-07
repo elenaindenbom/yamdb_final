@@ -9,4 +9,4 @@ https://github.com/elenaindenbom/api_yamdb/blob/master/README.md
 - автоматический деплой проекта на боевой сервер;
 - отправка уведомления в Telegram о том, что процесс деплоя успешно завершился.
 
-![workflow](https://github.com/elenabom/infra_actions/actions/workflows/yamdb_workflow.yml/badge.svg)
+![workflow](https://github.com/elenaindenbombom/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
