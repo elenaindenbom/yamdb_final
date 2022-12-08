@@ -10,3 +10,5 @@ https://github.com/elenaindenbom/api_yamdb/blob/master/README.md
 - отправка уведомления в Telegram о том, что процесс деплоя успешно завершился.
 
 ![workflow](https://github.com/elenaindenbom/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+
+Нужно что-то закоммитить
