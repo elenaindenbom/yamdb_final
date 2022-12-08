@@ -11,4 +11,4 @@ https://github.com/elenaindenbom/api_yamdb/blob/master/README.md
 
 ![workflow](https://github.com/elenaindenbom/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
-Нужно что-то закоммитить
+Нужно что-то
